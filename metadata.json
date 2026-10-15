@@ -1,0 +1,6 @@
+{
+  "name": "QuickNote",
+  "description": "A modern notes app with pastel cards, masonry grid, rich formatting, folders, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
